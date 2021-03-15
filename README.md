@@ -1,3 +1,3 @@
 # instaclone
 
-### Um clone (de tantos vários que tem) do nosso queridinho Instagram :camera:
+### Um clone da interface inicial do nosso queridinho Instagram :camera:
